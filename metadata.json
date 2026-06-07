@@ -1,0 +1,8 @@
+{
+  "name": "ENTEL Reclamos",
+  "description": "Sistema de Gestión de Reclamos Técnicos para ENTEL Bolivia con asignación automática, visualización de colas, análisis SQA, confiabilidad y reportes de desempeño.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_FULL_STACK_COMPLAINT_MANAGEMENT"
+  ]
+}
